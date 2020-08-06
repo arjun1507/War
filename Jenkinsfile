@@ -9,6 +9,6 @@ pipeline {
 
   }
   environment {
-    Java = '" Display the Java Home directory "'
+    Java = " Display the Java Home directory "
   }
 }
